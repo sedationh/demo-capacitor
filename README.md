@@ -7,4 +7,14 @@ npm install @capacitor/android
 npm run build
 npx cap add android
 npx cap open android
+npx cap run android
+```
+
+## IOS
+
+```
+npm install @capacitor/ios
+npx cap add ios
+npx cap open ios
+npx cap run ios
 ```
