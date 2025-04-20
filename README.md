@@ -12,6 +12,8 @@ npx cap run android
 
 ## IOS
 
+https://capacitorjs.com/docs/ios
+
 ```
 npm install @capacitor/ios
 npx cap add ios
